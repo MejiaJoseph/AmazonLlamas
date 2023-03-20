@@ -44,7 +44,7 @@ I have chosen to duplicate the following layout from the **App Name Here** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://i.imgur.com/t92kdDO.gif' title='AmazonLlamas' width='' alt='AmazonLlamas' />
 
 GIF created with **your chosen GIF tool**
 
